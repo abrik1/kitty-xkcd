@@ -12,3 +12,4 @@ view xkcd comics in kitty
 - [x] no 3rd party dependencies needed
 
 # preview:
+![master](2024-01-31-221218_869x389_scrot.png)
