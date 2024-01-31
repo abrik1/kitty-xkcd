@@ -22,6 +22,9 @@ def download_image(id: int):
     return system(f"kitty +kitten icat /home/{getenv('USER')}/.cache/kitty-xkcd/{id}.{img_ext}")
 
 def local_cache(id: int):
+    '''
+    local_cache(id: int): check that if any image corresponds to the comic id is cached or not
+    '''
     if isdir(f'/home/{getenv("USER")}/.cache/kitty-xkcd'):
         data = check_output(['ls', f'/home/{getenv("USER")}/.cache/kitty-xkcd']).decode('utf-8').split()
     else:
