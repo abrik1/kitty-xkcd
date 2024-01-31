@@ -2,8 +2,8 @@
 view xkcd comics in kitty
 
 # requirements:
-- [x] kitty
-- [x] BSD/Linux (duh bindows) 
+- kitty
+- BSD/Linux (guh bindows) 
 
 # features:
 - [x] caches images
