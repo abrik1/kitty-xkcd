@@ -3,6 +3,7 @@ view xkcd comics in kitty
 
 # requirements:
 - kitty
+- curl (to download images)
 - BSD/Linux (guh bindows) 
 
 # features:
