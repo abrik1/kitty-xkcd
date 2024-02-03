@@ -11,6 +11,15 @@ view xkcd comics in kitty
 - [x] fast
 - [x] uses kitty's icat to preview images
 - [x] no 3rd party dependencies needed
+- [x] very easy
+
+# installation:
+
+```
+$ git clone https://github.com/abrik1/kitty-xkcd
+$ sudo install -Dm755 kitty-xkcd/main.py /usr/bin/kitty-xkcd
+$ kitty-xkcd 234 # testing purposes only
+``` 
 
 # preview:
-![master](2024-01-31-221218_869x389_scrot.png)
+![master](2024-02-03-230907_833x393_scrot.png)
