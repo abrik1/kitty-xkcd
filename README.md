@@ -23,3 +23,5 @@ $ kitty-xkcd 234 # testing purposes only
 
 # preview:
 ![master](2024-02-03-230907_833x393_scrot.png)
+
+https://1drv.ms/p/s!ApPm0aVveqJEg0gggk-EspZEtSgn?e=zXXKY4
